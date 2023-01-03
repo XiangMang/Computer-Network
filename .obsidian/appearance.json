@@ -1,0 +1,9 @@
+{
+  "cssTheme": "Things",
+  "translucency": true,
+  "theme": "system",
+  "baseFontSize": 17,
+  "monospaceFontFamily": "Consolas",
+  "accentColor": "",
+  "nativeMenus": false
+}
