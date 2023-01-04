@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01 第一章 计算机网络与因特网/1.1 什么是Internet.md",
                 "mode": "preview",
                 "backlinks": true,
                 "source": false
@@ -121,11 +121,11 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "01 第一章 计算机网络与因特网/1.1 什么是Internet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "01 第一章 计算机网络与因特网/1.1 什么是Internet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -161,16 +161,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "01 第一章 计算机网络与因特网/1.1 什么是Internet.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,10 +187,10 @@
   },
   "active": "53efcd89794d464b",
   "lastOpenFiles": [
+    "README.md",
     "01 第一章 计算机网络与因特网/1.1 什么是Internet.md",
     "问题.md",
     "01 第一章 计算机网络与因特网/未命名.md",
-    "README.md",
     "04 PAT乙级(未完成)/1011---1020(未完成)/1011 A+B 和 C.md",
     "04 PAT乙级(未完成)/1001---1010/1003 我要通过！.md",
     "04 PAT乙级(未完成)/1001---1010/1001 害死人不偿命的(3n+1)猜想.md",
