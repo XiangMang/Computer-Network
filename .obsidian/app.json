@@ -8,7 +8,7 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "01 模板/图片库",
+  "attachmentFolderPath": "00 image",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
