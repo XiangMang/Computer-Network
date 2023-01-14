@@ -8,7 +8,7 @@
   "alwaysUpdateLinks": true,
   "defaultViewMode": "preview",
   "newLinkFormat": "shortest",
-  "attachmentFolderPath": "00 image",
+  "attachmentFolderPath": "00 Image",
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
