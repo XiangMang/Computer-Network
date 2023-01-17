@@ -1,0 +1,21 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "promptDelete": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true,
+  "trashOption": "system",
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview",
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "00 Image",
+  "pdfExportSettings": {
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "1",
+    "downscalePercent": 100
+  },
+  "showFrontmatter": true,
+  "spellcheck": false,
+  "newFileLocation": "current"
+}
